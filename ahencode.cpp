@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : ahencode.cpp
-// Author      : Felix Yuen Dao Phu
+// Author      : Felix
 // Version     : 1.0
 // Copyright   : 2016 All rights reserved
 // Description : Adaptive Huffman Vitter Invariant Encoder
